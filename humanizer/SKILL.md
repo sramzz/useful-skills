@@ -29,6 +29,8 @@ Do not flatten strong human details, mixed feelings, purposeful repetition, genu
 
 Avoid em dashes, en dashes, semicolons, excessive bolding, decorative emoji, title-case headings, and inline-header lists unless the user supplied a writing sample that makes them part of the voice or the source requires them. Never alter punctuation inside a quotation simply to satisfy this preference.
 
+Avoid arrow symbols (`↑`, `↗`, `→`, `↘`, `↓`, `↙`, `←`, `↖`, `↔`, `↕`), including equivalent HTML entities and CSS escapes, unless they are strictly needed to convey meaning. Prefer words in ordinary prose when they express the same meaning clearly. Preserve arrows in quotations, code, and other protected source material.
+
 Use straight or curly quotation marks according to the source, locale, or user's sample. Do not impose a single quotation style globally.
 
 When editing a file, change prose only. Leave non-prose content and link targets untouched.
@@ -42,7 +44,7 @@ Before returning the result, check:
 - Does the rewrite still contain clustered patterns from the reference catalog?
 - Does it sound natural when read aloud?
 - Did the edit erase a distinctive part of the author's voice?
-- Are any forbidden punctuation marks left outside protected source material?
+- Are any forbidden punctuation marks or unnecessary arrow symbols left outside protected source material?
 
 If a sentence resists repair, restate its point naturally instead of patching individual words.
 
